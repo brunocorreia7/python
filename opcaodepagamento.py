@@ -1,4 +1,5 @@
 print(f'{"LOJAS CORREIA":=^40}')
+
 preço = float(input('Preço das compras: R$'))
 print('''FORMAS DE PAGAMENTO
 [1] à vista dinheiro/cheque
