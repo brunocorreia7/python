@@ -1,6 +1,7 @@
 menu = """
 
 [c] cadastrar
+
 [m] mostrar cadastrados
 [s] sair
 
