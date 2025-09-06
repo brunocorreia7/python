@@ -1,5 +1,4 @@
 casa = float(input('valor da casa: R$ '))
-
 salário = float(input('sálario do comprador: R$ '))
 anos = int(input('quantos anos de financiamento? '))
 prestação = casa / (anos * 12)
