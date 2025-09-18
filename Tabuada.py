@@ -1,5 +1,4 @@
-while True:
-    
+while True:    
     try:
         numero = int(input('Digite um número inteiro para ver sua tabuada: '))
         break
