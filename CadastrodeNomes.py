@@ -16,4 +16,5 @@ while True:
         print("Pessoas cadastradas:", cadastro)
     elif opcao == "s":
         print('Obrigado por usar o programa.')
+        
         break
